@@ -110,3 +110,7 @@ console.log('Total Sales are', totalSales);
 - [How to use String Interpolation in JS](https://www.freecodecamp.org/news/javascript-string-format-how-to-use-string-interpolation-in-js/)
 - [JavaScript Ternary Operator ](https://www.programiz.com/javascript/ternary-operator)
 - [Learning Javascript forEach Loop](https://www.tutorialstonight.com/javascript-foreach-loop)
+
+
+
+bottom text
